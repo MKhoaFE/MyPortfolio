@@ -5,7 +5,6 @@ import axios from "axios";
 import { useState } from "react";
 import { AiOutlineSend } from "react-icons/ai";
 import { FiPhone, FiAtSign } from "react-icons/fi";
-import { HiOutlineLocationMarker } from "react-icons/hi";
 
 export default function Contactus() {
   const [formData, setFormData] = useState(new FormData());
