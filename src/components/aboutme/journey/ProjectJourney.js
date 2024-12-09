@@ -43,7 +43,7 @@ function ProjectJourney() {
           icon={<JavascriptIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Shoppy Ecommerce Website
+            BillBoard Manager
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -55,7 +55,7 @@ function ProjectJourney() {
           icon={<JavascriptIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Amazing Meal System
+            UI Figma 1 - responsive
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -67,7 +67,7 @@ function ProjectJourney() {
           icon={<JavascriptIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Academia Learning Website
+            Online Academy
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -79,7 +79,7 @@ function ProjectJourney() {
           icon={<JavascriptIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Personal Portfolio
+            Clothing Store
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -91,7 +91,7 @@ function ProjectJourney() {
           icon={<CssIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Online Payroll management System
+            ChatBot RAG_AI
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -103,7 +103,7 @@ function ProjectJourney() {
           icon={<HtmlIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            New Year CountDown
+            Booking Ticket System
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -115,7 +115,7 @@ function ProjectJourney() {
           icon={<CodeIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Heart Disease Prediction
+            InuSwap (Crypto Dex)
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -127,7 +127,7 @@ function ProjectJourney() {
           icon={<CssIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Dual Mode Calendar
+          UI Figma 2 - responsive
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -139,7 +139,7 @@ function ProjectJourney() {
           icon={<CssIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Dual Mode Calculator
+          UI Figma 3 - responsive
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement

@@ -13,10 +13,7 @@ import ProjectPage from "./pages/project_page/ProjectPage";
 import { Route, Routes } from "react-router-dom";
 import Footer from "./components/footer/Footer";
 import About from "./components/aboutme/about/About";
-
-import CertificatePage from "./pages/certificate_page/CertificatePage";
 import PersonalSkill from "./components/aboutme/skills/PersonalSkill";
-
 import ComingSoon from "./pages/comingsoon_page/comingsoon";
 import Notfound from "./pages/blogs_page/notfound";
 import TechnicalJourney from "./components/aboutme/journey/TechnicalJourney";
@@ -51,7 +48,6 @@ function App() {
             <Route path="toolkit" element={<Toolkit />}></Route>
           </Route>
           <Route path="/projectspage" element={<ProjectPage />} />
-          <Route path="/certificatepage" element={<CertificatePage />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/blogs" element={<ComingSoon />} />
           <Route path="*" element={<Notfound />} />
